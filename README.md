@@ -1,6 +1,6 @@
 **Sales Performance Tableau Dashboard**
 
-**Tableau Public Dashboard live link :-** https://public.tableau.com/shared/X3N28B574?:display_count=n&:origin=viz_share_link
+**Tableau Public Dashboard live link :-** https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17160390179900/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Description:
 *The Sales Performance Tableau Dashboard offers a comprehensive view of sales data, allowing stakeholders to analyze key metrics and trends to make informed business decisions. This interactive dashboard provides intuitive visualizations and powerful analytics tools to explore sales performance across various dimensions.
