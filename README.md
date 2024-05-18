@@ -18,5 +18,7 @@ Download the Tableau Sales Performance Dashboard workbook from the repository.
 Open the workbook in Tableau and connect it to your sales data source.
 Explore the interactive dashboard by interacting with filters, selecting specific metrics, and drilling down into detailed insights.
 Use the dashboard to track sales performance, identify trends, and uncover actionable insights to drive business growth.
-Data Sources:
+
+**Dashboard Image **
+![Sales Dashboard](https://github.com/DRAGOPANDEY/Tableau-Sales-Dashboard/assets/101521780/7873de9a-a763-4408-9440-fe78c1150764)
 
