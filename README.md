@@ -22,3 +22,6 @@ Use the dashboard to track sales performance, identify trends, and uncover actio
 **Dashboard Image **
 ![Sales Dashboard](https://github.com/DRAGOPANDEY/Tableau-Sales-Dashboard/assets/101521780/7873de9a-a763-4408-9440-fe78c1150764)
 
+![Customer Dashboard](https://github.com/DRAGOPANDEY/Tableau-Sales-Dashboard/assets/101521780/88c318f3-2287-4407-b0ac-0635598b53d3)
+
+
